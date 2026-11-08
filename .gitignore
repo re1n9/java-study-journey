@@ -1,0 +1,19 @@
+target/
+*.class
+*.jar
+
+# Application-generated local data
+activity_log.txt
+module_data*.txt
+position_log.txt
+tasks.dat
+*.ser
+
+# IDE and operating-system files
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

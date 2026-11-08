@@ -55,4 +55,3 @@ The original source used the package name `test`; it is retained here to avoid c
 ## Project context
 
 This was developed using an Agile team workflow for a software-engineering course. The repository describes functionality verifiable in the archived source code and does not assign unverified individual ownership of particular components.
-
